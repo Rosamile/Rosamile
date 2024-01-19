@@ -1,5 +1,5 @@
 # 💫 About Me:
- Acerca de Mí<br><br>¡Hola! Soy [Tu Nombre], una apasionada desarrolladora en constante evolución. Actualmente, estoy inmersa en el fascinante mundo de Node.js y Express, expandiendo mis horizontes y adquiriendo nuevas habilidades para impulsar mi carrera en el desarrollo web.<br><br>
+ Acerca de Mí<br><br>¡Hola! Soy Rosa, una apasionada desarrolladora en constante evolución. Actualmente, estoy inmersa en el fascinante mundo de Node.js y Express, expandiendo mis horizontes y adquiriendo nuevas habilidades para impulsar mi carrera en el desarrollo web.<br><br>
  ## Experiencia Actual<br><br>
  En mi proyecto más reciente, he estado explorando a fondo Node.js y Express, fortaleciendo mi comprensión de la construcción de aplicaciones robustas. Mi enfoque se ha centrado en el manejo de APIs y bases de datos no relacionales, donde he logrado integrar conocimientos teóricos con aplicaciones prácticas. Este desafío me ha permitido no solo aprender nuevas tecnologías sino también aplicarlas de manera efectiva en un entorno de desarrollo real.<br><br>
  ## Mi Filosofía de Trabajo<br><br>
