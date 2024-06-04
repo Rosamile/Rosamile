@@ -1,7 +1,7 @@
 # 💫 About Me:
  Acerca de Mí<br><br>¡Hola! Soy Rosa, una apasionada desarrolladora en constante evolución. Actualmente, estoy inmersa en el fascinante mundo de Node.js y Express, expandiendo mis horizontes y adquiriendo nuevas habilidades para impulsar mi carrera en el desarrollo web.<br><br>
  ## Experiencia Actual<br><br>
- En mi proyecto más reciente, he estado explorando a fondo Node.js y Express, fortaleciendo mi comprensión de la construcción de aplicaciones robustas. Mi enfoque se ha centrado en el manejo de APIs y bases de datos no relacionales, donde he logrado integrar conocimientos teóricos con aplicaciones prácticas. Este desafío me ha permitido no solo aprender nuevas tecnologías sino también aplicarlas de manera efectiva en un entorno de desarrollo real.<br><br>
+ En mi proyecto más reciente, he estado explorando a fondo Java y Spring Boot, fortaleciendo mi comprensión de la construcción de aplicaciones robustas. Mi enfoque se ha centrado en el manejo de APIs y bases de datos  relacionales, donde he logrado integrar conocimientos teóricos con aplicaciones prácticas. Este desafío me ha permitido no solo aprender nuevas tecnologías sino también aplicarlas de manera efectiva en un entorno de desarrollo real.<br><br>
  ## Mi Filosofía de Trabajo<br><br>
  Me considero una entusiasta del aprendizaje continuo y disfruto sumergirme en la documentación y recursos relacionados con las tecnologías en las que trabajo. Mi amor por la lectura no solo se limita a la teoría, sino que también me impulsa a explorar las mejores prácticas y casos de uso relevantes en el desarrollo web. Creo firmemente que la combinación de la teoría y la práctica es esencial para un crecimiento sostenible en este campo dinámico.<br><br>
  # Proyectos Anteriores<br><br>
