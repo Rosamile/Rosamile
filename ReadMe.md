@@ -7,7 +7,7 @@
  # Proyectos Anteriores<br><br>
  A lo largo de mi trayectoria, he participado en diversos proyectos que han afianzado mis habilidades técnicas y mi capacidad para enfrentar desafíos. Cada proyecto ha sido una oportunidad para aprender, crecer y contribuir al desarrollo de soluciones efectivas.<br><br>
  ## Próximos Pasos<br><br>
- Estoy emocionada/o por seguir explorando el ecosistema de Node.js y Express, aplicando mis conocimientos recién adquiridos en proyectos futuros. Mi objetivo es seguir contribuyendo al mundo del desarrollo web y crear soluciones que marquen la diferencia.<br><br>¡Siempre estoy abierta/o a nuevas oportunidades, colaboraciones y conexiones en el mundo del desarrollo! No dudes en contactarme para discutir proyectos emocionantes o intercambiar ideas sobre tecnologías emergentes.<br><br>¡Gracias por pasar por aquí!<br><br>
+ Estoy  explorando el ecosistema de Java y Spring Boot, aplicando mis conocimientos recién adquiridos en proyectos futuros. Mi objetivo es seguir contribuyendo al mundo del desarrollo web y crear soluciones que marquen la diferencia.<br><br>¡Siempre estoy abierta/o a nuevas oportunidades, colaboraciones y conexiones en el mundo del desarrollo! No dudes en contactarme para discutir proyectos emocionantes o intercambiar ideas sobre tecnologías emergentes.<br><br>¡Gracias por pasar por aquí!<br><br>
 
 
 ## 🌐 Socials:
