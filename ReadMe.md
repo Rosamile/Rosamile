@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Rosa Sarmiento, una psicóloga amante de los gatos y apasionada por el mundo del desarrollo de software. Decidí dar un giro en mi carrera y aventurarme en el emocionante campo de la tecnología. Sin experiencia previa en el área, me lancé a un bootcamp donde tuve que demostrar mis habilidades desarrollando una página web como prueba de admisión.<br>Aunque al principio fue un desafío, mi determinación y curiosidad me llevaron a investigar y aprender lo básico de HTML y CSS a través de recursos como YouTube y Udemy. Logré entregar el proyecto en los plazos requeridos y avanzar con éxito a la siguiente etapa.<br>Esta experiencia me enseñó la importancia de la autogestión y el aprendizaje continuo. Ahora, como desarrolladora web. ¡Estoy emocionada por seguir creciendo y enfrentando nuevos desafíos en el fascinante mundo de la tecnología!
+¡Hola! Soy Rosa Sarmiento, desarrolladora en formación amante de los gatos y apasionada por el mundo del desarrollo de software. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rosa-milet-sarmiento-pacheco-978688113?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGCNeBhLZQG2jEGjwBWaWSg%3D%3D) 
